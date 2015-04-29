@@ -1,0 +1,70 @@
+{
+  "app": {
+    "version": 13483,
+    "timestamp": 1430346500,
+    "time": "Wed Apr 29 15:28:20 2015"
+  },
+  "services": {
+    "SessionsLogon": "normal",
+    "SteamCommunity": "normal",
+    "IEconItems": "normal",
+    "Leaderboards": "idle"
+  },
+  "datacenters": {
+    "EU West": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "EU East": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "US Southwest": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "India": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "EU North": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "Emirates": {
+      "capacity": "full",
+      "load": "idle"
+    },
+    "US Northwest": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "South Africa": {
+      "capacity": "full",
+      "load": "medium"
+    },
+    "Brazil": {
+      "capacity": "full",
+      "load": "medium"
+    },
+    "US Northeast": {
+      "capacity": "full",
+      "load": "medium"
+    },
+    "Singapore": {
+      "capacity": "full",
+      "load": "low"
+    },
+    "Australia": {
+      "capacity": "full",
+      "load": "low"
+    }
+  },
+  "matchmaking": {
+    "scheduler": "normal",
+    "online_servers": 107692,
+    "online_players": 237361,
+    "searching_players": 2566,
+    "search_seconds_avg": 37
+  }
+}

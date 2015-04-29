@@ -1,0 +1,70 @@
+{
+  "app": {
+    "version": 13481,
+    "timestamp": 1,
+    "time": "Mon Apr 20 12:26:56 2015"
+  },
+  "services": {
+    "SessionsLogon": "APIDown",
+    "SteamCommunity": "APIDown",
+    "IEconItems": "APIDown",
+    "Leaderboards": "APIDown"
+  },
+  "datacenters": {
+    "EU West": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "EU East": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "US Southwest": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "India": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "EU North": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "Emirates": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "US Northwest": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "South Africa": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "Brazil": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "US Northeast": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "Singapore": {
+      "capacity": "APIDown",
+      "load": "offline"
+    },
+    "Australia": {
+      "capacity": "APIDown",
+      "load": "offline"
+    }
+  },
+  "matchmaking": {
+    "scheduler": "APIDown",
+    "online_servers": 0,
+    "online_players": 0,
+    "searching_players": 0,
+    "search_seconds_avg": 0
+  }
+}
